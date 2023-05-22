@@ -1,7 +1,6 @@
 <h1 align="center">Bonsoir 👋, ici Paul Mareschi</h1>
 <h3 align="center">Je suis étudiant en première année à Supinfo Paris</h3>
 
-<div align="center">
 - 🔭 En ce moment je développe des **sites web**
 
 - 🌱 En ce moment j'apprends le **React**
@@ -11,7 +10,7 @@
 - 👨‍💻 Mon site personnel [paulmareschi.fr](paulmareschi.fr)
 
 - 📫 Comment me contacter **paul.mrsch@gmail.com**
-</div>
+
 <h3 align="left">Contactez moi :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paul mareschi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paul mareschi" height="30" width="40" /></a>
