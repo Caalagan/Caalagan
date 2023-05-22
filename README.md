@@ -1,11 +1,11 @@
 <h1 align="center">Bonsoir 👋, ici Paul Mareschi</h1>
 <h3 align="center">Je suis étudiant en première année à Supinfo Paris</h3>
 
-- 🔭 En ce moment je développe **des sites**
+- 🔭 En ce moment je développe des **sites web**
 
 - 🌱 En ce moment j'apprends le **React**
 
-- 👯 Je cherche des entreprise ou particulier avec qui collaborer **Création de site**
+- 👯 Je cherche des entreprise ou particulier avec qui collaborer : **Création de site**
 
 - 👨‍💻 Mon site personnel [paulmareschi.fr](paulmareschi.fr)
 
