@@ -1,5 +1,5 @@
 <h1 align="center">Bonsoir 👋, ici Paul Mareschi</h1>
-<h3 align="center">Je suis étudiant en première année à Supinfo Paris</h3>
+<h3 align="center">Je suis étudiant en deuxième année à Supinfo Paris</h3>
 
 - 🔭 En ce moment je développe des **sites web**
 
